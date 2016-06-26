@@ -1,0 +1,6 @@
+C:\Users\HasKhan\Desktop\TelefonDefteriKonsol\TelefonDefteriKonsol\bin\Debug\TelefonDefteriKonsol.exe.config
+C:\Users\HasKhan\Desktop\TelefonDefteriKonsol\TelefonDefteriKonsol\bin\Debug\TelefonDefteriKonsol.exe
+C:\Users\HasKhan\Desktop\TelefonDefteriKonsol\TelefonDefteriKonsol\bin\Debug\TelefonDefteriKonsol.pdb
+C:\Users\HasKhan\Desktop\TelefonDefteriKonsol\TelefonDefteriKonsol\obj\Debug\TelefonDefteriKonsol.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\TelefonDefteriKonsol\TelefonDefteriKonsol\obj\Debug\TelefonDefteriKonsol.exe
+C:\Users\HasKhan\Desktop\TelefonDefteriKonsol\TelefonDefteriKonsol\obj\Debug\TelefonDefteriKonsol.pdb
